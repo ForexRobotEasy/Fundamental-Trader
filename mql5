@@ -1,0 +1,111 @@
+mql5
+//+------------------------------------------------------------------+
+//|                                                     Fundamental Trader |
+//|                                 https://www.forexroboteasy.com |
+//|                                                Forex Robot Easy Team |
+//+------------------------------------------------------------------+
+
+//+------------------------------------------------------------------+
+//|                                                                  |
+//|                                     Trade Functionality |
+//|                                                                  |
+//+------------------------------------------------------------------+
+
+// Fetch fundamental bias data of currencies
+void FetchFundamentalBiasData()
+{
+    // Fetch data from reliable online sources
+    // Implement code here
+}
+
+// Collect sentiment data of retail traders
+void CollectSentimentData()
+{
+    // Collect data from various financial markets
+    // Implement code here
+}
+
+// Fetch bank and institute forecasts
+void FetchForecasts()
+{
+    // Fetch forecasts related to the financial markets
+    // Implement code here
+}
+
+// Retrieve COT report data for analysis
+void RetrieveCOTReportData()
+{
+    // Retrieve COT report data
+    // Implement code here
+}
+
+// Display complex data in a comprehensive data panel
+void DisplayDataPanel()
+{
+    // Display gathered data from various sources
+    // Implement code here
+}
+
+// Integrate trading aids, indicators, and market reports
+void IntegrateTradingAids()
+{
+    // Integrate trading aids, indicators, and market reports
+    // Implement code here
+}
+
+// Align with smart money traders and institutions
+void AlignWithSmartMoney()
+{
+    // Implement code to align with smart money traders and institutions
+    // Implement code here
+}
+
+// Perform manual trading decisions based on informed data
+void ManualTradingDecisions()
+{
+    // Implement code to facilitate manual trading decisions
+    // Implement code here
+}
+
+// Automated trading based on gathered data and trading algorithms
+void AutomatedTrading()
+{
+    // Implement code for automated trading
+    // Implement code here
+}
+
+//+------------------------------------------------------------------+
+//|                                                                  |
+//|                                     Main Program |
+//|                                                                  |
+//+------------------------------------------------------------------+
+
+void OnStart()
+{
+    // Fetch fundamental bias data
+    FetchFundamentalBiasData();
+    
+    // Collect sentiment data
+    CollectSentimentData();
+    
+    // Fetch bank and institute forecasts
+    FetchForecasts();
+    
+    // Retrieve COT report data
+    RetrieveCOTReportData();
+    
+    // Display data panel
+    DisplayDataPanel();
+    
+    // Integrate trading aids, indicators, and market reports
+    IntegrateTradingAids();
+    
+    // Align with smart money traders and institutions
+    AlignWithSmartMoney();
+    
+    // Perform manual trading decisions
+    ManualTradingDecisions();
+    
+    // Automated trading
+    AutomatedTrading();
+}
